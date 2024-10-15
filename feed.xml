@@ -3,29 +3,34 @@
     <title>en.thebinary.org</title>
     <link href="https://en.thebinary.org/feed.xml" rel="self" />
     <link href="https://en.thebinary.org" />
-    <updated>2024-10-13T16:50:55+03:00</updated>
+    <updated>2024-10-15T12:40:44+03:00</updated>
     <author>
         <name>Ilias Giannakopoulos</name>
     </author>
     <id>https://en.thebinary.org</id>
 
     <entry>
-        <title>....Mission: Brussels 2023 ..Αποστολή: Βρυξέλλες 2023....</title>
+        <title>Mission: Brussels 2023</title>
         <author>
             <name>Ilias Giannakopoulos</name>
         </author>
         <link href="https://en.thebinary.org/mission-brussels-2023-apostoli-vryxelles-2023/"/>
         <id>https://en.thebinary.org/mission-brussels-2023-apostoli-vryxelles-2023/</id>
+        <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" medium="image" />
+            <category term="mission"/>
+            <category term="brussels"/>
 
         <updated>2024-10-12T18:27:29+03:00</updated>
             <summary>
                 <![CDATA[
-                    ....In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the&hellip;
+                        <img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" alt="" />
+                    In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>....In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the guardian of truth and democracy. Last week, we had the privilege of attending an enlightening set of sessions in Brussels, organised by the esteemed political foundation Heinrich Böll Stiftung. This gathering aimed to delve into the intricate web of challenges faced by journalists worldwide and explore the indispensable role they play in shaping our societies and the future. ..Σε έναν κόσμο όπου η πληροφορία είναι πολύτιμη, η γνώση, η ελευθερία του Τύπου είναι ο θεματοφύλακας της αλήθειας και της δημοκρατίας. Την εβδομάδα 6-9 Νοεμβρίου 2023, είχαμε την ευκαιρία να συμμετάσχουμε σε εποικοδομητικές συζητήσεις στις Βρυξέλλες, τις οποίες διοργάνωσε το αναγνωρισμένο ίδρυμα Heinrich Böll Stiftung. Αυτή η αποστολή είχε ως στόχο να εμβαθύνει και να εστιάσει στις προκλήσεις που αντιμετωπίζουν οι δημοσιογράφοι σε όλο τον κόσμο και να διερευνήσει τον αδιαμφισβήτητο ρόλο τους στη διαμόρφωση των κοινωνιών μας και του μέλλοντος. ....</p>
+                    <p><img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" class="type:primaryImage" alt="" /></p>
+                <p>In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the guardian of truth and democracy. Last week, we had the privilege of attending an enlightening set of sessions in Brussels, organised by the esteemed political foundation Heinrich Böll Stiftung. This gathering aimed to delve into the intricate web of challenges faced by journalists worldwide and explore the indispensable role they play in shaping our societies and the future.</p>
 <p> </p>
             ]]>
         </content>
