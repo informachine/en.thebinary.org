@@ -3,38 +3,12 @@
     <title>en.thebinary.org</title>
     <link href="https://en.thebinary.org/feed.xml" rel="self" />
     <link href="https://en.thebinary.org" />
-    <updated>2024-10-15T12:54:44+03:00</updated>
+    <updated>2024-10-15T13:10:52+03:00</updated>
     <author>
         <name>Ilias Giannakopoulos</name>
     </author>
     <id>https://en.thebinary.org</id>
 
-    <entry>
-        <title>Mission: Brussels 2023</title>
-        <author>
-            <name>Ilias Giannakopoulos</name>
-        </author>
-        <link href="https://en.thebinary.org/mission-brussels-2023/"/>
-        <id>https://en.thebinary.org/mission-brussels-2023/</id>
-        <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" medium="image" />
-            <category term="mission"/>
-            <category term="brussels"/>
-
-        <updated>2024-10-12T18:27:29+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" alt="" />
-                    In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" class="type:primaryImage" alt="" /></p>
-                <p>In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the guardian of truth and democracy. Last week, we had the privilege of attending an enlightening set of sessions in Brussels, organised by the esteemed political foundation Heinrich Böll Stiftung. This gathering aimed to delve into the intricate web of challenges faced by journalists worldwide and explore the indispensable role they play in shaping our societies and the future.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>....post 1..ποστ 1....</title>
         <author>
@@ -52,6 +26,34 @@
         <content type="html">
             <![CDATA[
                 <p>....post EN..post EL....</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mission: Brussels 2023</title>
+        <author>
+            <name>Ilias Giannakopoulos</name>
+        </author>
+        <link href="https://en.thebinary.org/mission-brussels-2023/"/>
+        <id>https://en.thebinary.org/mission-brussels-2023/</id>
+        <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" medium="image" />
+            <category term="mission"/>
+            <category term="brussels"/>
+
+        <updated>2023-11-13T18:27:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" alt="" />
+                    Heinrich Böll Stiftung organised the Media Freedom Visit 6 to 9 Nov 2023 in Brussels to dive into the challenges&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong>Heinrich Böll Stiftung organised the Media Freedom Visit 6 to 9 Nov 2023 in Brussels to dive into the challenges of Democracy in the EU.</strong></p>
+<p>In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the guardian of truth and democracy. Last week, we had the privilege of attending an enlightening set of sessions in Brussels, organised by the esteemed political foundation <a href="https://www.boell.de/en" title="Heinrich Böll Stiftung" target="_blank" rel="noopener noreferrer">Heinrich Böll Stiftung</a>. This gathering aimed to delve into the intricate web of challenges faced by journalists worldwide and explore the indispensable role they play in shaping our societies and the future.</p>
+<p>The initiative started with a poignant acknowledgment of the critical times we live in, where the very essence of journalism is under threat. The <a href="https://www.boell.de/en" title="Heinrich Böll foundation" target="_blank" rel="noopener noreferrer">Heinrich Böll foundation</a>, known for its commitment to promoting democracy, civil and human rights, and environmental sustainability, set the stage for a thought-provoking discussion on the state of journalism and the various forces influencing it.</p>
+<p>Renowned journalists and media experts took center stage to share their experiences and insights, ask questions and raise the bar for the future. Respected professionals, from the borders to the heart of political turmoil, shared the view of their stories, painting a vivid picture of the challenges journalists face in their pursuit of truth. The discussions ranged from the rise of misinformation to the dangers of censorship, SLAPPs, monitoring and digital surveillance, emphasising the need for a robust defense of journalistic freedom focusing in digital rights, the protection of personal data, access to information and the freedom of expression. </p>
             ]]>
         </content>
     </entry>
