@@ -3,7 +3,7 @@
     <title>en.thebinary.org</title>
     <link href="https://en.thebinary.org/feed.xml" rel="self" />
     <link href="https://en.thebinary.org" />
-    <updated>2024-10-15T12:40:44+03:00</updated>
+    <updated>2024-10-15T12:54:44+03:00</updated>
     <author>
         <name>Ilias Giannakopoulos</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Ilias Giannakopoulos</name>
         </author>
-        <link href="https://en.thebinary.org/mission-brussels-2023-apostoli-vryxelles-2023/"/>
-        <id>https://en.thebinary.org/mission-brussels-2023-apostoli-vryxelles-2023/</id>
+        <link href="https://en.thebinary.org/mission-brussels-2023/"/>
+        <id>https://en.thebinary.org/mission-brussels-2023/</id>
         <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" medium="image" />
             <category term="mission"/>
             <category term="brussels"/>
