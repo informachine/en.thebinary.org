@@ -34,11 +34,44 @@
                 "name": "Ilias Giannakopoulos"
             },
             "tags": [
-                   "mission",
-                   "brussels"
+                   "Mission",
+                   "Brussels"
             ],
             "date_published": "2023-11-13T18:27:00+02:00",
             "date_modified": "2024-10-15T13:10:52+03:00"
+        },
+        {
+            "id": "https://en.thebinary.org/click-at-aegean-docs-2022/",
+            "url": "https://en.thebinary.org/click-at-aegean-docs-2022/",
+            "title": "Click at Aegean Docs 2022",
+            "summary": "Friday 30 September, at 9.30 pm at the Municipal Theater of Mitilini, the non-profit organisation The Binary presents its short&hellip;",
+            "content_html": "<p>Friday 30 September, at 9.30 pm at the Municipal Theater of Mitilini, the non-profit organisation The Binary presents its short film: \"Click, a story about digital rights\" directed by Yiannis Christoforou.<br><br>The film was chosen to be screened by the 10th Aegean Docs Festival and presents, in an understandable way, the necessity of recognising the digital rights of citizens, many of whom (as you will see in Binary's video) do not know why they concern them.<br><br>Click is a film on the story of digital rights. In short, it's you in a film.<br><br>It starts with human existence and carries you into the jarring effect of the digital world, reaching to the point where you are called to make the decision about the future. All these on a journey full of light that reveals the \"invisible\" and the \"intangible\", in a digital world that is absolutely real, between stars and beautiful screens, between mathematics and emotions, between everything you have already lived and what shapes your future, between you and your mirror.<br><br>This is a story about the anthropocentric nature of technology that takes you by the hand for a quick ride through a journey you have never been through, with the brightest and sometimes the darkest views of the technological cosmogony. <br><br>A journey into the other side of the \"Wonderland\", where everything runs faster than life. Where everything changes in a “click\".</p>",
+            "image": "https://en.thebinary.org/media/posts/4/2022_CLICK_AEGEANDOCS.jpg",
+            "author": {
+                "name": "The Binary Newsroom"
+            },
+            "tags": [
+                   "Press-Release"
+            ],
+            "date_published": "2022-09-20T12:00:00+03:00",
+            "date_modified": "2024-10-20T12:00:37+03:00"
+        },
+        {
+            "id": "https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/",
+            "url": "https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/",
+            "title": "A Voter&#x27;s Guide and 7 Tips to Detox Your Data, in partnership with Tactical Tech",
+            "summary": "Voter’s Guide is a set of resources designed to promote citizens’ critical thinking about the use of their personal data&hellip;",
+            "content_html": "<div class=\"row voffset-clear-md\">\n<div class=\"col bgc-white\">\n<p class=\"mg-md tc-dark-jungle-green p-bloc-story-style\">Voter’s Guide is a set of resources designed to promote citizens’ critical thinking about the use of their personal data by political groups to influence public opinion, elections, and other political participation. </p>\n</div>\n<div class=\"col bgc-white\"> </div>\n</div>\n<div class=\"row voffset-clear-md\">\n<div class=\"col bgc-white\">\n<p class=\"mg-md tc-dark-jungle-green p-206-style\">Across the world, data on citizens is being collected, traded and utilised to influence their political views . Despite increased attention in recent years, it is still difficult to access information about the industry actors or the technologies that they use to sway citizens' political views. This project aims to increase accessibility and understanding to strengthen civic capacity to engage with politics.</p>\n</div>\n<div class=\"col bgc-white\"> </div>\n</div>\n<div class=\"row voffset-clear-md\">\n<div class=\"col bgc-white\">\n<p class=\"mg-md tc-dark-jungle-green p-206-style\">In partnership with Tactical Tech, the Voter’s Guide pack contents are based on the extensive research conducted by “Data and Politics Team” with partners from over 20 countries on how technology and personal data is used to influence political opinion.</p>\n</div>\n</div>",
+            "image": "https://en.thebinary.org/media/posts/5/2022_VOTERS_GUIDE_TACTICALTECH.jpg",
+            "author": {
+                "name": "The Binary Newsroom"
+            },
+            "tags": [
+                   "Press-Release",
+                   "Partnership"
+            ],
+            "date_published": "2022-08-19T12:20:00+03:00",
+            "date_modified": "2024-10-20T12:06:00+03:00"
         }
     ]
 }
