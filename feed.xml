@@ -3,7 +3,7 @@
     <title>en.thebinary.org</title>
     <link href="https://en.thebinary.org/feed.xml" rel="self" />
     <link href="https://en.thebinary.org" />
-    <updated>2024-10-20T12:06:00+03:00</updated>
+    <updated>2024-10-22T15:13:30+03:00</updated>
     <author>
         <name>Ilias Giannakopoulos</name>
     </author>
@@ -36,20 +36,21 @@
         </author>
         <link href="https://en.thebinary.org/mission-brussels-2023/"/>
         <id>https://en.thebinary.org/mission-brussels-2023/</id>
-        <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" medium="image" />
+        <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200-2.jpg" medium="image" />
             <category term="Mission"/>
+            <category term="Featured"/>
             <category term="Brussels"/>
 
         <updated>2023-11-13T18:27:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" alt="" />
-                    Heinrich Böll Stiftung organised the Media Freedom Visit 6 to 9 Nov 2023 in Brussels to dive into the challenges&hellip;
+                        <img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200-2.jpg" alt="Mission: Brussels 2023" />
+                    Heinrich Böll Stiftung organised the Media Freedom Visit 6 to 9 Nov 2023 in Brussels to dive into the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200-2.jpg" class="type:primaryImage" alt="Mission: Brussels 2023" /></p>
                 <p><strong>Heinrich Böll Stiftung organised the Media Freedom Visit 6 to 9 Nov 2023 in Brussels to dive into the challenges of Democracy in the EU.</strong></p>
 <p>In a world where information is a potent currency, the knowledge, the need for freedom in journalism stands as the guardian of truth and democracy. Last week, we had the privilege of attending an enlightening set of sessions in Brussels, organised by the esteemed political foundation <a href="https://www.boell.de/en" title="Heinrich Böll Stiftung" target="_blank" rel="noopener noreferrer">Heinrich Böll Stiftung</a>. This gathering aimed to delve into the intricate web of challenges faced by journalists worldwide and explore the indispensable role they play in shaping our societies and the future.</p>
 <p>The initiative started with a poignant acknowledgment of the critical times we live in, where the very essence of journalism is under threat. The <a href="https://www.boell.de/en" title="Heinrich Böll foundation" target="_blank" rel="noopener noreferrer">Heinrich Böll foundation</a>, known for its commitment to promoting democracy, civil and human rights, and environmental sustainability, set the stage for a thought-provoking discussion on the state of journalism and the various forces influencing it.</p>
@@ -66,12 +67,13 @@
         <id>https://en.thebinary.org/click-at-aegean-docs-2022/</id>
         <media:content url="https://en.thebinary.org/media/posts/4/2022_CLICK_AEGEANDOCS.jpg" medium="image" />
             <category term="Press-Release"/>
+            <category term="Picks"/>
 
         <updated>2022-09-20T12:00:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://en.thebinary.org/media/posts/4/2022_CLICK_AEGEANDOCS.jpg" alt="Click at Aegean Docs 2022" />
-                    Friday 30 September, at 9.30 pm at the Municipal Theater of Mitilini, the non-profit organisation The Binary presents its short&hellip;
+                    Friday 30 September, at 9.30 pm at the Municipal Theater of Mitilini, the non-profit organisation The Binary presents its&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -90,13 +92,14 @@
         <id>https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/</id>
         <media:content url="https://en.thebinary.org/media/posts/5/2022_VOTERS_GUIDE_TACTICALTECH.jpg" medium="image" />
             <category term="Press-Release"/>
+            <category term="Picks"/>
             <category term="Partnership"/>
 
         <updated>2022-08-19T12:20:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://en.thebinary.org/media/posts/5/2022_VOTERS_GUIDE_TACTICALTECH.jpg" alt="A Voter&#x27;s Guide and 7 Tips to Detox Your Data" />
-                    Voter’s Guide is a set of resources designed to promote citizens’ critical thinking about the use of their personal data&hellip;
+                    Voter’s Guide is a set of resources designed to promote citizens’ critical thinking about the use of their personal&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -104,7 +107,7 @@
                     <p><img src="https://en.thebinary.org/media/posts/5/2022_VOTERS_GUIDE_TACTICALTECH.jpg" class="type:primaryImage" alt="A Voter&#x27;s Guide and 7 Tips to Detox Your Data" /></p>
                 <div class="row voffset-clear-md">
 <div class="col bgc-white">
-<p class="mg-md tc-dark-jungle-green p-bloc-story-style">Voter’s Guide is a set of resources designed to promote citizens’ critical thinking about the use of their personal data by political groups to influence public opinion, elections, and other political participation. </p>
+<p class="mg-md tc-dark-jungle-green p-bloc-story-style">Voter’s Guide is a set of resources designed to promote citizens’ critical thinking about the use of their personal data by political groups to influence public opinion, elections, and other political participation.</p>
 </div>
 <div class="col bgc-white"> </div>
 </div>
