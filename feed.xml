@@ -14,8 +14,8 @@
         <author>
             <name>Ilias Giannakopoulos</name>
         </author>
-        <link href="https://en.thebinary.org/posts/post-1/"/>
-        <id>https://en.thebinary.org/posts/post-1/</id>
+        <link href="https://en.thebinary.org/post-1/"/>
+        <id>https://en.thebinary.org/post-1/</id>
 
         <updated>2024-10-09T20:13:47+03:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Ilias Giannakopoulos</name>
         </author>
-        <link href="https://en.thebinary.org/posts/mission-brussels-2023/"/>
-        <id>https://en.thebinary.org/posts/mission-brussels-2023/</id>
+        <link href="https://en.thebinary.org/mission-brussels-2023/"/>
+        <id>https://en.thebinary.org/mission-brussels-2023/</id>
         <media:content url="https://en.thebinary.org/media/posts/3/2023_MISSION_BRUSSELS_2023_1800x1200-2.jpg" medium="image" />
             <category term="Mission"/>
             <category term="Featured"/>
@@ -64,8 +64,8 @@
         <author>
             <name>The Binary Newsroom</name>
         </author>
-        <link href="https://en.thebinary.org/posts/click-at-aegean-docs-2022/"/>
-        <id>https://en.thebinary.org/posts/click-at-aegean-docs-2022/</id>
+        <link href="https://en.thebinary.org/click-at-aegean-docs-2022/"/>
+        <id>https://en.thebinary.org/click-at-aegean-docs-2022/</id>
         <media:content url="https://en.thebinary.org/media/posts/4/2022_CLICK_AEGEANDOCS.jpg" medium="image" />
             <category term="Press-Release"/>
             <category term="Picks"/>
@@ -89,8 +89,8 @@
         <author>
             <name>The Binary Newsroom</name>
         </author>
-        <link href="https://en.thebinary.org/posts/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/"/>
-        <id>https://en.thebinary.org/posts/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/</id>
+        <link href="https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/"/>
+        <id>https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/</id>
         <media:content url="https://en.thebinary.org/media/posts/5/2022_VOTERS_GUIDE_TACTICALTECH.jpg" medium="image" />
             <category term="Press-Release"/>
             <category term="Picks"/>
