@@ -14,15 +14,15 @@
             "id": "https://en.thebinary.org/posts/post-1/",
             "url": "https://en.thebinary.org/posts/post-1/",
             "title": "....post 1..ποστ 1....",
-            "summary": "....post EN..post EL....",
-            "content_html": "<p>....post EN..post EL....</p>",
+            "summary": "....post EN..post EL.... 123",
+            "content_html": "<p>....post EN..post EL....</p>\n<p>123</p>",
             "author": {
                 "name": "Ilias Giannakopoulos"
             },
             "tags": [
             ],
             "date_published": "2024-10-09T20:13:47+03:00",
-            "date_modified": "2024-10-22T14:01:56+03:00"
+            "date_modified": "2024-10-26T22:22:05+03:00"
         },
         {
             "id": "https://en.thebinary.org/posts/mission-brussels-2023/",

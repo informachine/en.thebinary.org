@@ -3,7 +3,7 @@
     <title>en.thebinary.org</title>
     <link href="https://en.thebinary.org/feed.xml" rel="self" />
     <link href="https://en.thebinary.org" />
-    <updated>2024-10-22T15:13:30+03:00</updated>
+    <updated>2024-10-26T22:22:05+03:00</updated>
     <author>
         <name>Ilias Giannakopoulos</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2024-10-09T20:13:47+03:00</updated>
             <summary>
                 <![CDATA[
-                    ....post EN..post EL....
+                    ....post EN..post EL.... 123
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>....post EN..post EL....</p>
+<p>123</p>
             ]]>
         </content>
     </entry>
