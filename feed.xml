@@ -3,33 +3,12 @@
     <title>en.thebinary.org</title>
     <link href="https://en.thebinary.org/feed.xml" rel="self" />
     <link href="https://en.thebinary.org" />
-    <updated>2024-10-26T22:22:05+03:00</updated>
+    <updated>2024-10-22T15:13:30+03:00</updated>
     <author>
         <name>Ilias Giannakopoulos</name>
     </author>
     <id>https://en.thebinary.org</id>
 
-    <entry>
-        <title>....post 1..ποστ 1....</title>
-        <author>
-            <name>Ilias Giannakopoulos</name>
-        </author>
-        <link href="https://en.thebinary.org/post-1/"/>
-        <id>https://en.thebinary.org/post-1/</id>
-
-        <updated>2024-10-09T20:13:47+03:00</updated>
-            <summary>
-                <![CDATA[
-                    ....post EN..post EL.... 123
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>....post EN..post EL....</p>
-<p>123</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Mission: Brussels 2023</title>
         <author>
@@ -62,7 +41,7 @@
     <entry>
         <title>Click at Aegean Docs 2022</title>
         <author>
-            <name>The Binary Newsroom</name>
+            <name>Newsroom</name>
         </author>
         <link href="https://en.thebinary.org/click-at-aegean-docs-2022/"/>
         <id>https://en.thebinary.org/click-at-aegean-docs-2022/</id>
@@ -87,7 +66,7 @@
     <entry>
         <title>A Voter&#x27;s Guide and 7 Tips to Detox Your Data, in partnership with Tactical Tech</title>
         <author>
-            <name>The Binary Newsroom</name>
+            <name>Newsroom</name>
         </author>
         <link href="https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/"/>
         <id>https://en.thebinary.org/a-voters-guide-and-7-tips-to-detox-your-data-in-partnership-with-tactical-tech/</id>
